@@ -1,0 +1,6 @@
+class: Todo
+table: todo
+fields: 
+  title: String
+  date: DateTime
+  isDone: bool
